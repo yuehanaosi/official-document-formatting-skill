@@ -1,0 +1,4 @@
+interface:
+  display_name: "公文格式排版与标题写作 | Official Document Layout & Titles"
+  short_description: "公文排版、文种与标题审校、章节拟题、电子文件命名"
+  default_prompt: "使用 $official-document-formatting 审校这份公文的文种、标题和版式，保留原始事实并列出需核实项。"
